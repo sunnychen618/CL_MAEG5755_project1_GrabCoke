@@ -1,0 +1,6 @@
+<launch>
+<!--put cylinder upright on table   -x 0.8 -y -0    -->
+<node name="spawn_small_cylinder" pkg="gazebo_ros" type="spawn_model" args="-file $(find exmpl_models)/coke_can/model.sdf -sdf -model coke_can -x 0.7 -y -0.1 -z 0.85" />
+<!-- <node name="spawn_small_cylinder" pkg="gazebo_ros" type="spawn_model" args="-file $(find exmpl_models)/small_cylinder/cylinder_cokecan.sdf -sdf -model cylinder_coke_can -x 0.7 -y -0.2 -z 0.9" /> -->
+
+</launch>
