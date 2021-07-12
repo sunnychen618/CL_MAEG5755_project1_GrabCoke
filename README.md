@@ -22,7 +22,9 @@ Baxter finds the table top and the coke can. Having known the pose of coke can, 
 
 ## Overview
 The operation effect is shown in the figure below
-<img src="illustration.png" alt="illustration">
+
+![demo.jpg](demo.jpg) 
+
 You can get the running video through the video link: https://www.youtube.com/watch?v=oZbIIizFcgA
 
 ## FAQ
